@@ -16,7 +16,7 @@ const client = new Discord.Client()
 
 
 
-const prefix = "Your Prefix"
+const prefix = "!"
 
 
 
